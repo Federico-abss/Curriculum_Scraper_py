@@ -24,7 +24,7 @@ HTML
 CSS
 Python
 
-phone: 320 5731083
+phone: 324 679072
 mail: federicomannucci@gmail.com
 linkedin: www.linkedin.com/in/fmabss
 github: https://github.com/Federico-abss
@@ -39,7 +39,7 @@ HTML
 CSS
 Python
 
-phone: 320 5731083
+phone: 324 679072
 mail: federicomannucci@gmail.com
 linkedin: www.linkedin.com/in/fmabss
 github: https://github.com/Federico-abss
@@ -47,3 +47,6 @@ github: https://github.com/Federico-abss
 ------------------------------
 ```
 As a little disclaimer, this program utilizes regular expressions to extract the informations from the files, the ones I used are very basic and might not be able to catch every format of phone number or website.
+
+### Certificate
+![ATBS Certificate](Automate%20The%20Boring%20Stuff.jpg)
