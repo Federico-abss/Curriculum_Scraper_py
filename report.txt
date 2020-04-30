@@ -5,7 +5,7 @@ HTML
 CSS
 Python
 
-phone: 320 5731083
+phone: 324 679072
 mail: federicomannucci@gmail.com
 linkedin: www.linkedin.com/in/fmabss
 github: https://github.com/Federico-abss
@@ -20,7 +20,7 @@ HTML
 CSS
 Python
 
-phone: 320 5731083
+phone: 324 679072
 mail: federicomannucci@gmail.com
 linkedin: www.linkedin.com/in/fmabss
 github: https://github.com/Federico-abss
